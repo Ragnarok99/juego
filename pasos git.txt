@@ -1,0 +1,7 @@
+$git init iniciar
+$git remote add "https direccion del repositorio"
+$git remote add
+1- $git add nombre.extension
+2- $git commit -m "mensaje claro de lo que se hizo"
+3- $git branch Nombre rama
+4- $git branch me muestra las ramas del repositorio
